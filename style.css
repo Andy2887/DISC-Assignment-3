@@ -1,0 +1,92 @@
+.nav {
+    height: 50px;
+    font-family: arial;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    padding-left: 10px;
+    justify-content: flex-end;
+    border-bottom: 1px solid #88828D;
+  }
+  
+  .title{
+    color: #392AB8;
+    opacity: 0.8;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .nav h1{
+    margin-right: auto;
+    color: grey;
+  }
+  
+  .nav a{
+    color: grey;
+    text-decoration: none;
+  }
+  
+  .avatar{
+    margin-left: 20px;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+  }
+  
+  .logo{
+    width: 37px;
+    height: 37px;
+    margin-left: 20px;
+  }
+  
+  .body{
+    display: flex;
+    flex-direction: column;
+    margin-left: 14vw;
+  }
+  
+  .body p{
+    font-family: arial;
+  }
+  
+  
+  .section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .text{
+    margin-left: 25px;
+    font-size: 20px;
+    font-weight: 100;
+  }
+  
+  .footer{
+    margin-top: 20px;
+    background-color: #392AB8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .footer h2{
+    width: 200px;
+    font-size: 30px;
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  .footer a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+  }
+  
+  
+  
+  
